@@ -1,5 +1,0 @@
-This is the first text file
-This is the insertion in the second iteration
-This is the insertion in the third iteration
-Again doing it
-
