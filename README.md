@@ -11,4 +11,4 @@ Detecting if someone has a facemask on/or not using deep learning
 
 
 
-Find the working demo of the applucation ![here](https://share.streamlit.io/shashwat9kumar/covid_face_mask_detection/visual.py)
+Find the working demo of the applucation <a href="https://share.streamlit.io/shashwat9kumar/covid_face_mask_detection/visual.py">here</a>
