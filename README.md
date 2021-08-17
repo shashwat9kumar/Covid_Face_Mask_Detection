@@ -8,3 +8,7 @@ Curator: <a href="https://dribbble.com/Enisaurus">Enisaurus</a>
 
 
 Detecting if someone has a facemask on/or not using deep learning
+
+
+
+Find the working demo of the applucation ![here](https://share.streamlit.io/shashwat9kumar/covid_face_mask_detection/visual.py)
